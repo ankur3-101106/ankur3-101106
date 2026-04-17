@@ -33,7 +33,7 @@
   <a href="https://gitlab.com/ankur3-101106">
     <img src="https://skillicons.dev/icons?i=gitlab" />
   </a>
-  <a href="https://discord.com/users/ankur3-101106">
+  <a href="https://discord.com/users/ankur3_101106">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
