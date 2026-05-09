@@ -6,7 +6,6 @@
   🔐 Offensive Security • 🐧 Linux • 🌐 Networking • ⚙️ Automation
 </p>
 
-
 ## 🌐 Socials
 
 <p align="center">
@@ -33,7 +32,6 @@
   </a>
 </p>
 
-
 ## 🎯 About Me
 
 - 🎓 Cybersecurity student with strong foundations in **Networking & OS**
@@ -41,7 +39,6 @@
 - 🛡️ Interested in **Penetration Testing, SOC, Network Security**
 - ⚡ Fast learner, adapts quickly to new tools & environments
 - 🧠 Hands-on learner: labs > theory
-
 
 ## 🧰 Technical Skills
 
@@ -67,16 +64,12 @@
 - Metasploit (labs)
 - Git & GitHub
 
-
-
 ## 👷 Currently Working On
 
 - Cybersecurity notes & labs (structured repo)
 - Python security tools (automation & analysis)
 - Linux configuration (performance & security)
 - Networking practice (packet analysis & subnetting)
-
-
 
 ## 🧪 Learning Roadmap
 
@@ -87,33 +80,17 @@
 - Capture The Flag (CTFs)  
 - CEH / eJPT  
 
-
-
 ## 💻 Linux & Unix-based Experience
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arch,kali,redhat,ubuntu,bsd,debian,emacs,gtk,mint,nix,qt,bash,neovim,vim,linux,git&perline=10" />
 </p>
 
-
-
 ## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,anaconda,arduino,bootstrap,cloudflare,cmake,dart,vscode,electron,flutter,gcp,gradle,latex,md,maven,netlify,nginx,nodejs,notion,npm,bun,obsidian,opencv,pnpm,postman,pycharm,regex,replit,rust,scala,swift,vercel,heroku,go,powershell,lua,js,java,ts,sqlite,tailwind,tensorflow,threejs,vite,vscodium,wordpress,zig,selenium,react,html,css,django,flask,fastapi,mysql,postgres,mongodb,supabase,aws,azure,firebase,docker,kubernetes&perline=10" />
 </p>
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankur3-101106&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankur3-101106&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
 
 <p align="center" style="color:#00ddff; font-weight:600; font-size:1.25em;">
   <i>“Security is not a product, but a process.”</i>
