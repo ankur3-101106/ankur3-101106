@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/127193323?v=4" width="170" style="border-radius: 50%" alt="profile" />
-</p>
-
-<h2 align="center">
+<h1 align="center">
   👨‍🎓 Cybersecurity Student | Linux Enthusiast | Future Pentester
 </h2>
 
@@ -10,7 +6,6 @@
   🔐 Offensive Security • 🐧 Linux • 🌐 Networking • ⚙️ Automation
 </p>
 
----
 
 ## 🌐 Socials
 
@@ -38,7 +33,6 @@
   </a>
 </p>
 
----
 
 ## 🎯 About Me
 
@@ -48,7 +42,6 @@
 - ⚡ Fast learner, adapts quickly to new tools & environments
 - 🧠 Hands-on learner: labs > theory
 
----
 
 ## 🧰 Technical Skills
 
@@ -74,7 +67,7 @@
 - Metasploit (labs)
 - Git & GitHub
 
----
+
 
 ## 👷 Currently Working On
 
@@ -83,7 +76,7 @@
 - Linux configuration (performance & security)
 - Networking practice (packet analysis & subnetting)
 
----
+
 
 ## 🧪 Learning Roadmap
 
@@ -94,7 +87,7 @@
 - Capture The Flag (CTFs)  
 - CEH / eJPT  
 
----
+
 
 ## 💻 Linux & Unix-based Experience
 
@@ -102,7 +95,7 @@
   <img src="https://skillicons.dev/icons?i=arch,kali,redhat,ubuntu,bsd,debian,emacs,gtk,mint,nix,qt,bash,neovim,vim,linux,git&perline=10" />
 </p>
 
----
+
 
 ## 💻 Tech Stack
 
@@ -110,7 +103,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,anaconda,arduino,bootstrap,cloudflare,cmake,dart,vscode,electron,flutter,gcp,gradle,latex,md,maven,netlify,nginx,nodejs,notion,npm,bun,obsidian,opencv,pnpm,postman,pycharm,regex,replit,rust,scala,swift,vercel,heroku,go,powershell,lua,js,java,ts,sqlite,tailwind,tensorflow,threejs,vite,vscodium,wordpress,zig,selenium,react,html,css,django,flask,fastapi,mysql,postgres,mongodb,supabase,aws,azure,firebase,docker,kubernetes&perline=10" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -120,7 +113,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankur3-101106&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+
 
 <p align="center" style="color:#00ddff; font-weight:600; font-size:1.25em;">
   <i>“Security is not a product, but a process.”</i>
