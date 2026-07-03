@@ -1,6 +1,6 @@
 <h1 align="center">
   👨‍🎓 Cybersecurity Student | Linux Enthusiast | Future Pentester
-</h2>
+</h1>
 
 <p align="center">
   🔐 Offensive Security • 🐧 Linux • 🌐 Networking • ⚙️ Automation
