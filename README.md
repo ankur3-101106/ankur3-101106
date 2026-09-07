@@ -90,7 +90,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,anaconda,arduino,bootstrap,cloudflare,cmake,dart,vscode,electron,flutter,gcp,gradle,latex,md,maven,netlify,nginx,nodejs,notion,npm,bun,obsidian,opencv,pnpm,postman,pycharm,regex,replit,rust,scala,swift,vercel,heroku,go,powershell,lua,js,java,ts,sqlite,tailwind,tensorflow,threejs,vite,vscodium,wordpress,zig,selenium,react,html,css,django,flask,fastapi,mysql,postgres,mongodb,supabase,aws,azure,firebase,docker,kubernetes&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,anaconda,arduino,bootstrap,cloudflare,cmake,dart,vscode,electron,flutter,gcp,gradle,kotlin,latex,md,maven,netlify,nginx,nodejs,notion,npm,bun,obsidian,opencv,pnpm,postman,pycharm,regex,replit,rust,scala,swift,vercel,heroku,go,powershell,lua,js,java,ts,sqlite,tailwind,tensorflow,threejs,vite,vscodium,wordpress,zig,selenium,react,html,css,django,flask,fastapi,mysql,postgres,mongodb,supabase,aws,azure,firebase,docker,kubernetes&perline=10" />
 </p>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ankur3-101106&langs_count=20&theme=material-palenight)](https://github-stats-extended.vercel.app/api/top-langs?username=ankur3-101106&langs_count=20&theme=material-palenight)
