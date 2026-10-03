@@ -1,6 +1,6 @@
 <h1 align="center">
-<!-- <img src="[https://skillicons.dev/icons?i=instagram](https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:A855F7,100:00F5D4&height=220&section=header&text=ANKUR%20MACWAN&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20|%20Linux%20Kernal%20Researcher%20|%20Open-Source%20Contributor&descAlignY=62&descAlign=50)" width="100%"> -->
-  👨‍🎓 Cybersecurity Student | Linux Enthusiast | Future Pentester
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/2a251929-4d39-47b4-8d25-568f6334cab3" />
+
 </h1>
 
 <p align="center">
