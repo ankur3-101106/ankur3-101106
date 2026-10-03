@@ -1,7 +1,6 @@
-<h1 align="center">
+<p align="center">
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/2a251929-4d39-47b4-8d25-568f6334cab3" />
-
-</h1>
+</p>
 
 <p align="center">
   🔐 Offensive Security • 🐧 Linux • 🌐 Networking
