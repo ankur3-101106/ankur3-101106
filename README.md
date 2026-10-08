@@ -43,7 +43,7 @@
 ## 🧰 Technical Skills
 
 ### 💻 Operating Systems
-- Linux (Arch, Kali, Debian, Fedora)
+- Linux (Arch, Kali, Debian, Fedora, Bedrock)
 - Windows Internals
 
 ### 🔐 Cybersecurity
