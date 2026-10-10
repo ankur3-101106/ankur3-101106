@@ -1,5 +1,5 @@
 <p align="center">
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/2a251929-4d39-47b4-8d25-568f6334cab3" />
+<img width="2125"  alt="github-header-banner" src="https://github.com/user-attachments/assets/2a251929-4d39-47b4-8d25-568f6334cab3" />
 </p>
 
 <p align="center">
@@ -95,8 +95,20 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,anaconda,arduino,bootstrap,cloudflare,cmake,dart,vscode,electron,flutter,gcp,gradle,kotlin,latex,md,maven,netlify,nginx,nodejs,notion,npm,bun,obsidian,opencv,pnpm,postman,pycharm,regex,replit,rust,scala,swift,vercel,heroku,go,powershell,lua,js,java,ts,sqlite,tailwind,tensorflow,threejs,vite,vscodium,wordpress,zig,selenium,react,html,css,django,flask,fastapi,mysql,postgres,mongodb,supabase,aws,azure,firebase,docker,kubernetes&perline=10" />
 </p>
+
 <p align="center">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ankur3-101106&langs_count=20&theme=material-palenight)](https://github-stats-extended.vercel.app/api/top-langs?username=ankur3-101106&langs_count=20&theme=material-palenight" />
+  <!-- GitHub Stats Card: Make sure to replace YOUR_GITHUB_USERNAME with your actual github username -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ankur3-101106&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00FF66&text_color=e2e8f0&icon_color=00F0FF" height="150" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ankur3-101106&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00FF66&text_color=e2e8f0&icon_color=00F0FF" height="150" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Contribution Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankur3-101106&theme=tokyonight&background=0d1117&fire=00FF66&ring=00F0FF&currStreakLabel=00FF66" height="150" alt="GitHub Streak" />
 </p>
 
 <p align="center" style="color:#00ddff; font-weight:600; font-size:1.25em;">
